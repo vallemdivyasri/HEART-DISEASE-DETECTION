@@ -5,7 +5,7 @@ This repository contains a project focused on detecting heart disease using mach
 Heart disease is a leading cause of death globally, making early detection critical. By leveraging data science, we aim to create a reliable model that can assist healthcare professionals in making informed decisions.
 
 ## Data
-The dataset used in this project is sourced from Kaggle. [Dataset Link]() 
+The dataset used in this project is sourced from Kaggle. 
 It includes various features such as,
 1. Age
 2. Sex
