@@ -26,8 +26,11 @@ A Random Forest classifier was chosen for its robustness and ability to handle t
 
 ### Key Steps:
 **Data Preprocessin**: Handling missing values, encoding categorical variables, and normalizing numerical features.
+
 **Feature Selection:** Identifying and selecting the most relevant features.
+
 **Model Training:** Training the Random Forest classifier with optimized hyperparameters.
+
 **Model Evaluation:** Assessing the model's performance using accuracy, precision, recall, and F1-score metrics.
 
 ## Results
